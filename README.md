@@ -1,0 +1,2 @@
+# magister
+Magistritöö tehnilised failid
