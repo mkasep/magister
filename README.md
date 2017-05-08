@@ -1,3 +1,3 @@
-# Magistritöö
+# Magister
 
-Põhiline fail on magister.ipynb
+Põhiline tööriist on magister.ipynb fail
