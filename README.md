@@ -1,3 +1,3 @@
 # Magistritöö
-Magistritöö tehnilised failid
+Magistritöö tehnilised failid.\n
 Põhiline fail on magister.ipynb
